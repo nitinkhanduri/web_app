@@ -94516,7 +94516,7 @@ s=$.aK
 r=$.c().gt()
 q=A.a2(12)
 p=$.c().gn()
-o=A.NG("assets/images/app_new_logo.png",d,80*$.c().gn(),d)
+o=A.NG("assets/images/login_logo.png",d,80*$.c().gn(),d)
 n=A.o(d,20*$.c().gn(),d)
 m=$.c().gn()
 l=$.c().gt()
@@ -94541,7 +94541,7 @@ $R:3,
 $S:555}
 A.asn.prototype={
 $1(a){var s=null,r=A.bH(this.a,s,t.w).w
-return A.x(s,A.NG("assets/images/login_screen.png",B.c6,s,s),B.h,s,s,s,s,s,B.aa,s,s,s,r.a.a)},
+return A.x(s,A.NG("assets/images/login_images.png",B.c6,s,s),B.h,s,s,s,s,s,B.aa,s,s,s,r.a.a)},
 $S:556}
 A.aso.prototype={
 $1(a){var s=this.a,r=A.eI('^(([^<>()[\\]\\\\.,;:\\s@\\"]+(\\.[^<>()[\\]\\\\.,;:\\s@\\"]+)*)|(\\".+\\"))@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\])|(([a-zA-Z\\-0-9]+\\.)+[a-zA-Z]{2,}))$',!0,!1),q=s.a.a.a
@@ -95486,7 +95486,7 @@ s.aG()},
 $S:0}
 A.jG.prototype={}
 A.LZ.prototype={
-J(a){var s=null,r=A.R(A.a([new A.u(B.KO,A.cd(s,A.NG("assets/images/app_new_logo.png",s,80,150),B.D,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6r(),s,s,s),s)],t.p),B.l,B.F,B.f)
+J(a){var s=null,r=A.R(A.a([new A.u(B.KO,A.cd(s,A.NG("assets/images/login_logo.png",s,80,150),B.D,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.a6r(),s,s,s),s)],t.p),B.l,B.F,B.f)
 return new A.yP(B.aE,r,B.re,4,B.HE,new A.YG(s,s,1/0,56),s)}}
 A.a6r.prototype={
 $0(){A.js($.bG(),null).hP("/homeScreen",t.z)},
